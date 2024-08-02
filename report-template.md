@@ -2,8 +2,6 @@
 
 # Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
-
 ## * Purpose of the Analysis:
 
 The purpose of this analysis was to develop and evaluate machine learning models to predict the risk associated with loan applications. Specifically, the goal was to classify loans as either healthy (low-risk) or high-risk based on various financial indicators.
