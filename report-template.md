@@ -53,8 +53,8 @@ Based on the evaluation metrics, the Logistic Regression model is recommended fo
 
 # Performance Consideration
 
-## Importance of Predicting High-Risk Loans: If predicting high-risk loans (1) is more critical due to potential financial losses, the slight improvement in recall (0.91) with logistic regression is beneficial.
+Importance of Predicting High-Risk Loans: If predicting high-risk loans (1) is more critical due to potential financial losses, the slight improvement in recall (0.91) with logistic regression is beneficial.
 
-## Overall Balance: Logistic regression offers a better balance between precision and recall across both classes, making it a reliable choice for deployment in a loans application approval system.
+Overall Balance: Logistic regression offers a better balance between precision and recall across both classes, making it a reliable choice for deployment in a loans application approval system.
 
 If further refinement is needed, considering additional features or methods could enhance the model's performance.
